@@ -1,0 +1,11 @@
+# Edit the Claude Code configuration file `~/.claude/settings.json`
+# Add or modify the env fields ANTHROPIC_BASE_URL, ANTHROPIC_AUTH_TOKEN
+# Note to replace `your_zai_api_key` with the API Key you obtained in the previous step
+
+{
+    "env": {
+        "ANTHROPIC_AUTH_TOKEN": "e13e9a13ff4b4b0287d238e5aa6d8e02.NBC0uzd5CBqUayFS",
+        "ANTHROPIC_BASE_URL": "https://api.z.ai/api/anthropic",
+        "API_TIMEOUT_MS": "3000000"
+    }
+}
